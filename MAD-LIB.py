@@ -1,0 +1,41 @@
+print("WELCOME TO MAD-LIB")
+print("please answer the following questions!")
+
+day1 = input("name a day of the week")
+gender1 = input("Boy or Girl")
+name1 = input("Give me a name")
+adjective1 = input("name an adjective")
+adjective2 = input("name an adjective")
+adjective3 = input("name an adjective")
+adjective4 = input("name an adjective")
+adjective5 = input("name an adjective")
+adjective6 = input("name an adjective")
+adjective7 = input("name an adjective")
+adjective8 = input("name an adjective")
+adjective9 = input("name an adjective")
+Foot1 = input("name a football team")
+Foot2 = input("name another football team")
+stadium1 = input("name a stadium")
+
+number1 = input("name a number")
+number2 = input("name another number")
+Player1 = input("name a footballer")
+Player2 = input("name a footballer")
+Player3 = input("name a footballer")
+Player4 = input("name a footballer")
+Player5 = input("name a footballer")
+goal1 = input("name a type of goal")
+Food1 = input("name a food")
+entertainment1 = input("name a type of entertainment")
+verb1 = input("name a verb")
+setpiece = input("name a type of setpiece")
+
+
+
+print("On a fine afternoon on a", day1, "There was a young", gender1, "named", name1), "this" (gender1)"was extremely" (adjective1) "but was a bit",(adjective2,)
+print("This person supports", (Foot1),. "This person went to the", (stadium1)," to watch the team play. It was very", (adjective3), "and the food was", (adjective4),)
+print("The game was", (Foot1)," against" (Foot2). "In the minute number", (number1), (Player1) "scored from a" ,(goal1),. "The atmosphere was ",(adjective5),)
+print("Overall the game was quite", (adjective6),. "A few moments later", (Player2), "scored a" ,(adjective7),"goal out of no where. Then it was half time.")
+"In Half time, this person went to get a" (Food1) "which tasted (adjective8),"there also was a(entertainment1).
+"In the second half", (Foot1, "began to", (verb1). (Player3) "and" (Player4) "scored in quick succession. Also" (Player5) "missed a" (setpiece1).)
+"Finally in the last" (number2) "minutes", (Player5) "scored a hattrick and celebrated by doing the" (dance1). "M M  BFCTVCTV
